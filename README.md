@@ -1,2 +1,3 @@
 # MyProject-Nihilent
-this is my first repository
+This is my first Git repository 
+Author - Sagar Shinde.
